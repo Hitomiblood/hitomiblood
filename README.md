@@ -8,6 +8,6 @@
 
 ### Vias de contacto
 
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmiguel-santiago-g%25C3%25B3mez-su%25C3%25A1rez-83275420b%2F)
+[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-santiago-g%C3%B3mez-su%C3%A1rez-83275420b/)
 
 Cambio ssh 2 M
