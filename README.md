@@ -4,7 +4,7 @@
 :pencil: **Entusiasta por el conocimiento**
 :eyeglasses: **Geek empedernido**
 :oncoming_automobile: **Fan de los autos, carreras y simuladores**
-:family: **¡El papá más faliz del mundo**
+:family: **¡El papá más feliz del mundo**
 
 ### Vias de contacto
 
