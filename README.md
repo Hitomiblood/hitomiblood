@@ -1,13 +1,9 @@
 ## Hi there 👋
 
 :computer: **Desarrollador BackEnd en Movisoftware SAS.**
-
 :pencil: **Entusiasta por el conocimiento**
-
 :eyeglasses: **Geek empedernido**
-
 :oncoming_automobile: **Fan de los autos, carreras y simuladores**
-
 :family: **¡El papá más feliz del mundo**
 
 ### Vias de contacto
