@@ -17,6 +17,6 @@
 Cambio ssh 2 M
 
 ### :zap: Actividad reciente
-<!--START_SECTION:activit-->
+<!--RECENT_ACTIVITY:start-->
 
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:last_update-->
