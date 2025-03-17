@@ -1,12 +1,12 @@
 <!-- 
-## Lista completa de emojis para markdown de GitHub
+## Complete list of GitHub markdown emojis
 https://gist.github.com/rxaviers/7360908
 
-## Íconos de tecnologías
+## Technology Icons
 https://simpleicons.org/
 -->
 
-💬 **_No dudes en contactarme. Siempre estoy disponible..._** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+💬 **_Feel free to contact me. I'm always available..._** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <br>
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Miguel%20Santiago%20Gómez-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/miguel-santiago-g%C3%B3mez-su%C3%A1rez-83275420b/)
@@ -14,13 +14,13 @@ https://simpleicons.org/
 [![GitHub](https://img.shields.io/badge/GitHub-Hitomiblood-brightgreen?logo=GitHub&logoColor=white&labelColor=black)](https://github.com/Hitomiblood)
 <br>
 
-<h2 align='center'><samp><strong>¡Hola! 👋, Soy Miguel Santiago Gómez</strong></samp></h2>
+<h2 align='center'><samp><strong>Hi there! 👋, I'm Miguel Santiago Gómez</strong></samp></h2>
 <h3 align='center'><strong>Software Developer | Data Scientist</strong></h3>
-<p align='center'>Desarrollador .NET | Máster en Data Science y Machine Learning | Ingeniero Electrónico </p>
+<p align='center'>.NET Developer | Master in Data Science and Machine Learning | Electronic Engineer</p>
 
-<p align='left'> 🤓 Como profesional apasionado por la tecnología y la innovación, combino mi experiencia en desarrollo de software con mi conocimiento en ciencia de datos para crear soluciones robustas y escalables. Mi enfoque se centra en la optimización de procesos y la implementación de soluciones basadas en IA que generen valor real para los usuarios.</p>
+<p align='left'> 🤓 As a professional passionate about technology and innovation, I combine my software development experience with my knowledge in data science to create robust and scalable solutions. My focus is on process optimization and implementing AI-based solutions that generate real value for users.</p>
 
-💻 **Lenguajes y Herramientas:** 🛠️<br>
+💻 **Languages and Tools:** 🛠️<br>
 
 ![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=c-sharp&logoColor=white&labelColor=239120)
 ![.NET](https://img.shields.io/badge/-.NET-000000?style=flat&logo=.net&logoColor=white&labelColor=512BD4)
@@ -34,23 +34,23 @@ https://simpleicons.org/
 ![Jupyter](https://img.shields.io/badge/-Jupyter-000000?style=flat&logo=jupyter&logoColor=white&labelColor=F37626)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-000000?style=flat&logo=power-bi&logoColor=white&labelColor=F2C811)
 
-🧐 **Especialidades:**<br>
+🧐 **Specialties:**<br>
 
-`Desarrollo Backend`, `Ciencia de Datos`, `Machine Learning`, `Principios SOLID`, `Patrones de Diseño`, `API REST`, `Programación Orientada a Objetos`, `Automatización de Procesos`
+`Backend Development`, `Data Science`, `Machine Learning`, `SOLID Principles`, `Design Patterns`, `REST API`, `Object-Oriented Programming`, `Process Automation`
 
-🌍 **Plataformas de Despliegue:**<br>
+🌍 **Deployment Platforms:**<br>
 
 ![Azure](https://img.shields.io/badge/-Azure-000000?style=flat&logo=microsoft-azure&logoColor=white&labelColor=0078D4)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white&labelColor=181717)
 
-📊 **Proyectos Destacados:**
+📊 **Featured Projects:**
 
-- 🐝 **Detección de Esperma de Drones de Abeja usando YOLO v8**
-  - Modelo de ML para detectar y rastrear esperma en frames de video
-  - Implementación de PseudoLabeling para mejorar la precisión
-  - [Ver Repositorio](https://github.com/Hitomiblood/ProjectsDataScienceMaster/tree/main/Proyecto_TFM)
+- 🐝 **Bee Drone Sperm Detection Using YOLO v8**
+  - ML model for detecting and tracking sperm in video frames
+  - Implementation of PseudoLabeling to improve accuracy
+  - [View Repository](https://github.com/Hitomiblood/ProjectsDataScienceMaster/tree/main/Proyecto_TFM)
 
-✅ **Estadísticas de GitHub:**
+✅ **GitHub Stats:**
 
 <div align='center'>
     <img style="border-radius: 5px; margin-bottom: 5px" src="https://github-readme-stats-sigma-seven.vercel.app/api/top-langs/?username=Hitomiblood&langs_count=10&theme=radical&layout=compact" alt="Miguel :: Top Langs" />
